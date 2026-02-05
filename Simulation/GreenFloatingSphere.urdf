@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+
+<robot name="Fun_Robot">
+  <link name="base_link">
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <sphere radius="0.05" />
+      </geometry>
+      <material name="base_link-material">
+        <color rgba="0.4910208498384856 0.9386857284565036 0.008023192982520563 1" />
+      </material>
+    </visual>
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <mass value="0.05" />
+      <inertia ixx="0.00001" ixy="0" ixz="0" iyy="0.00001" iyz="0" izz="0.00001" />
+    </inertial>
+  </link>
+</robot>
