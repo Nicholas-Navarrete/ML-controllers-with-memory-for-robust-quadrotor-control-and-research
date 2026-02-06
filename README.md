@@ -1,6 +1,6 @@
 # ML-controllers-with-memory-for-robust-quadrotor-control-and-research
 
-This project reposity is for for all code and data developed during my thesis project, along with the produced thesis and thesis presentation. The content is seperated into three directories. 
+This project reposity is for for all code and data developed during my thesis project, along with the produced thesis and thesis presentation. The content is seperated into three directories. Each directory has a README file to explain how they should be used. 
 <br/><br/><br/>
 
 
@@ -16,6 +16,6 @@ This Directory contains all of the code reqiured to fly the crazyflie 2.x using 
 ## Simulation
 
 This directory contains all of the code used to train different models in order to control quadrotors
-
 <br/><br/>
-* Thanks to everyone who made this project possible. Feel free to reach out to me at nicholasnavarrete013@gmail.com if you have any questions* 
+
+_Thanks to everyone who made this project possible. Feel free to reach out to me at nicholasnavarrete013@gmail.com if you have any questions_
